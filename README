@@ -12,7 +12,8 @@ Presented in the white paper. Details to follow.
 
 ** SCRIPTS **
 
-TBD
+receptionist_corpus/visualizations/timeline/analyze1.r 
+generates the timeline visualizations from the tab-separated value files.
 
 ** LICENSE **
 
