@@ -1,1 +1,25 @@
-CMU corpus of receptionist encounters by Maxim Makatchev, Reid Simmons and Majd Sakr is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
+                     CMU Corpus of Receptionist Encounters
+
+
+
+** DATASET **
+
+Dataset consists of the Advene annotations http://liris.cnrs.fr/advene/ . These annotations can be opened in Advene and exported in a variety of formats, including a tab-separated values file. The R scripts included with the corpus load such tab-separated value files.
+
+** ANNOTATION SCHEME **
+
+Presented in the white paper. Details to follow.
+
+** SCRIPTS **
+
+TBD
+
+** LICENSE **
+
+CMU corpus of receptionist encounters by Maxim Makatchev, Reid Simmons and Majd Sakr is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License. http://creativecommons.org/licenses/by-sa/3.0/
+
+If you use any part of this corpus (including the dataset, scripts, and visualizations) in your work, we ask you to acknowledge it by including in your deliverable all of the following:
+name: CMU Corpus of Receptionist Encounters
+authors:  Maxim Makatchev, Reid Simmons and Majd Sakr
+URL: http://www.qatar.cmu.edu/hala/corpora/
+publication: "A Cross-cultural Corpus of Annotated Verbal and Nonverbal Behaviors in Receptionist Encounters," by Maxim Makatchev, Reid Simmons, and Majd Sakr. Workshop on Gaze in HRI: From Modeling to Communication, Boston, MA, USA, March 5, 2012.
