@@ -22,5 +22,5 @@ CMU corpus of receptionist encounters by Maxim Makatchev, Reid Simmons and Majd 
 If you use any part of this corpus (including the dataset, scripts, and visualizations) in your work, we ask you to acknowledge it by including in your deliverable all of the following:
 name: CMU Corpus of Receptionist Encounters
 authors:  Maxim Makatchev, Reid Simmons and Majd Sakr
-URL: http://www.qatar.cmu.edu/hala/corpora/
+URL: https://github.com/maxipesfix/receptionist_corpus
 publication: "A Cross-cultural Corpus of Annotated Verbal and Nonverbal Behaviors in Receptionist Encounters," by Maxim Makatchev, Reid Simmons, and Majd Sakr. Workshop on Gaze in HRI: From Modeling to Communication, Boston, MA, USA, March 5, 2012. http://arxiv.org/abs/1203.2299
